@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/ciandtred</color>
+    <color name="colorPrimaryDark">@color/ciandtred</color>
+    <color name="colorAccent">@color/ciandtblue</color>
+
+    <color name="ciandtred">#ed1941</color>
+    <color name="ciandtblue">#20bec6</color>
+    <color name="ciandtwhite">#ffffff</color>
+</resources>
